@@ -1,2 +1,2 @@
 infophp()
-//komentar
+//komentar kelas B
